@@ -1,5 +1,5 @@
 {
-    "name": "ahrasel/bangladesh-geo",
+    "name": "ahrasel/laravel-bangladesh-geo",
     "description": "A library for handling Bangladesh geographical locations in Laravel.",
     "type": "library",
     "license": "MIT",
